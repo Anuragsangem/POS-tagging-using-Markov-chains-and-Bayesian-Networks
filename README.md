@@ -4,7 +4,7 @@
 
 
 
-#PART1 : REPORT and ABSATRACTIONS : 
+#PART1 : REPORT and ABSTRACTIONS : 
 
 
 1)Abstractions used : 
@@ -75,10 +75,6 @@ Conclusion : HMM performed better than the other two algorithms on the test set 
 
 Future improvisations : 
 We can try to calculate much more richer dependencies using gibbs sampling (which may take large computational power and more number of iterations) to get a much more comprehensive performance of our algorithm
-
-
-
-
 
 
 
