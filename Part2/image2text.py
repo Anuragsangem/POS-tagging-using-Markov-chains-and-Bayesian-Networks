@@ -174,7 +174,7 @@ def transition(x,y):
     # although it can be more or less than that value
     # this function calculates the emission probabilities of all the train and test test_letters
     # this means that the pixels of each of the letters in the test data are compared to those in train letters
-    noise = 0.5
+    noise = 0.2
     arr = []
     train_pixels = x
     test_pixels = y
