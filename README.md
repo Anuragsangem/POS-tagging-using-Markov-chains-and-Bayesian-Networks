@@ -5,7 +5,8 @@
 
 
 #PART1 : REPORT and ABSATRACTIONS : 
-"""
+
+
 1)Abstractions used : 
         inital_prob_dict={}-> Initial probability of all the pos in the train set  eg : {noun:0.52,det:0.31} etc  
         possible_pos=[] -> This is the list of all possible pos obtained by iterating the train set used to calculate counts_pos
